@@ -2,7 +2,7 @@
 
 Projeto de construção de uma API.
 
-🎯 Objetivo do Projeto
+🎯 Objetivo do Projeto:
 Construir uma API em java usando o Spring Boot.
 
 🛠 Tecnologias Utilizadas:
