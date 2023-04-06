@@ -6,8 +6,4 @@ Projeto de construção de uma API.
 Construir uma API em java usando o Spring Boot.
 
 🛠 Tecnologias Utilizadas:
-Visual Studio Code
-Java 
-Maven
-Spring Web
-Mongo DB Atlas
+Visual Studio Code, Java, Maven, Spring Web, Mongo DB Atlas
